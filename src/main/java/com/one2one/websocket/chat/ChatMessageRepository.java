@@ -1,4 +1,4 @@
-package com.alibou.websocket.chat;
+package com.one2one.websocket.chat;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 

@@ -1,4 +1,4 @@
-package com.alibou.websocket.chat;
+package com.one2one.websocket.chat;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

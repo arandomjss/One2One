@@ -1,4 +1,4 @@
-package com.alibou.websocket.config;
+package com.one2one.websocket.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.context.annotation.Configuration;

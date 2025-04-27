@@ -1,4 +1,4 @@
-package com.alibou.websocket.user;
+package com.one2one.websocket.user;
 
 
 import lombok.RequiredArgsConstructor;
